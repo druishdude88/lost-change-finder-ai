@@ -1,0 +1,9 @@
+# Requirements for lost-change-finder-ai
+
+# Python dependencies
+numpy
+pandas
+scikit-learn
+requests
+flask
+matplotlib
